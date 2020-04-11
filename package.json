@@ -1,0 +1,23 @@
+{
+  "name": "csv-process",
+  "version": "1.0.0",
+  "description": "Chris Bartek",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "csv-process"
+  },
+  "keywords": [
+    "csv",
+    "process"
+  ],
+  "author": "Chris Bartek",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "csv-writer": "^1.6.0"
+  }
+}
